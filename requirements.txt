@@ -3,3 +3,4 @@ Pillow==9.3.0
 numpy==1.24.1
 jupyter==1.0.0
 ipykernel==6.19.4
+xmltodict==0.13.0
